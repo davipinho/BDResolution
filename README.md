@@ -19,8 +19,7 @@ Este script em Python foi desenvolvido para alterar automaticamente a resoluçã
 - Python 3.x
 - Bibliotecas Python: `tkinter`, `subprocess`, `xml.etree.ElementTree`, `psutil`, `time`
 
-## Avisos
+## Observações
 
-- 
--
--
+- O `BloodStrike.exe` tem que estar instalado no `C:\Program Files (x86)`
+

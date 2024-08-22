@@ -1,7 +1,5 @@
 # BDResolution
 
-## Descrição
-
 Este script em Python foi desenvolvido para alterar automaticamente a resolução e a taxa de atualização do sistema quando o aplicativo BloodStrike for iniciado. Quando o aplicativo for fechado, o script reverterá as configurações para os valores anteriores.
 
 ## Funcionalidades

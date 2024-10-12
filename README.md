@@ -1,10 +1,10 @@
 # BDResolution
 
-Este script em Python foi desenvolvido para alterar automaticamente a resolução e a taxa de atualização do sistema quando o aplicativo BloodStrike for iniciado. Quando o aplicativo for fechado, o script reverterá as configurações para os valores anteriores.
+Este script em Python foi desenvolvido para alterar automaticamente a resolução e a taxa de atualização do sistema quando o jogo BloodStrike for iniciado. Quando o aplicativo for fechado, o script reverterá as configurações para os valores anteriores.
 
 ## Funcionalidades
 
-- **Monitoramento de Aplicativo**: Monitora o aplicativo `BloodStrike.exe` localizado em `C:\Program Files (x86)\bloodstrike\BloodStrike.exe`.
+- **Monitoramento de Aplicativo**: Monitora o jogo `BloodStrike.exe` localizado em `C:\Program Files (x86)\bloodstrike\BloodStrike.exe`.
 - **Alteração de Resolução e Taxa de Atualização**: Modifica a resolução e a taxa de atualização do monitor quando o aplicativo é iniciado.
 - **Retorno à Configuração Padrão**: Restaura a resolução padrão do monitor quando o aplicativo é fechado.
 - **Interface Gráfica**: Interface de usuário com campos de entrada para configurar a resolução e a taxa de atualização, um terminal embutido e um botão para executar as ações.
